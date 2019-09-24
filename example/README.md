@@ -1,0 +1,1 @@
+an example app which demonstrates zo_gradient_text
