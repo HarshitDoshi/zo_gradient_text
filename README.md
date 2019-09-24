@@ -2,7 +2,7 @@
 
 # zo_gradient_text
 
-stylized gradient text for the zoworld (zoworld is an upcoming collection of apps developed by me)
+a stylized gradient text widget for the zoworld (zoworld is an upcoming collection of apps developed by me)
 
 ## About
 
