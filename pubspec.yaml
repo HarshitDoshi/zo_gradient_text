@@ -1,8 +1,8 @@
 name: zo_gradient_text
-description: beautiful, stylized text widget with gradient colors
+description: a beautiful, stylized text widget with gradient colors
 version: 0.0.1
-author:
-homepage:
+author: Harshit Doshi <harshitdoshi719@gmail.com>
+homepage: https://github.com/HarshitDoshi/zo_gradient_text
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
