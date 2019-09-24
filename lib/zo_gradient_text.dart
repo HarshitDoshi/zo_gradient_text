@@ -4,13 +4,13 @@ import 'package:flutter/material.dart';
 
 class ZOGradientText extends StatefulWidget {
   ZOGradientText(
-      this.text,
-      this.fontSize,
-      this.fontWeight,
-      this.fontStyle,
-      this.textAlignment,
-      this.gradientColorsList,
-      );
+    this.text,
+    this.fontSize,
+    this.fontWeight,
+    this.fontStyle,
+    this.textAlignment,
+    this.gradientColorsList,
+  );
 
   final String text;
   final double fontSize;
